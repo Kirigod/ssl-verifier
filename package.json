@@ -1,0 +1,29 @@
+{
+  "name": "ssl-verifier",
+  "version": "1.0.0",
+  "description": "Package that verifies SSL information from a URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kirigod/ssl-verifier.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "ssl",
+    "verifier",
+    "checker",
+    "ssl-certificates",
+    "ssl-verifier",
+    "ssl-checker",
+    "web"
+  ],
+  "author": {
+    "name": "Kirigod",
+    "email": "imperialdevelopment.contact@gmail.com"
+  },
+  "license": "MIT"
+}
